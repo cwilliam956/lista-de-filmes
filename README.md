@@ -1,4 +1,4 @@
 # Lista de filmes
 
-# Celso William, Gustavo Brianti e Pamela Cardoso
-Projeto de um aplicativo mobile, com objetivo de poder escolher visualizar os livros fornecidos pela API do google books e adiciona-los  em uma lista de leitura, esse aplicativo foi desenvolvido como atividade avaliativa na matéria de desenvolvimento para dispositiveis moveis II, na Fatec de Itapira, feito por Celso William, Gustavo Brianti e Pamela Cardoso,
+# Celso William, Gustavo Brianti 
+Projeto de um aplicativo mobile, com objetivo de poder escolher visualizar os filmes fornecidos pela API e adiciona-los em uma lista, e uso de pacote de gerência de estados , na Fatec de Itapira, feito por Celso William, Gustavo Brianti 
